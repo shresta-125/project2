@@ -2,6 +2,6 @@
 
 This project was created from local system
 
-Created by Shrest mara.
+Created by Shresta mara.
 
 
